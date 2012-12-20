@@ -1,0 +1,14 @@
+{
+    "name": "quality-press/cart-bundle",
+    "description": "Plugin de carrinho para Symfony2",
+    "authors": [
+        {
+            "name": "Jorge Vahldick",
+            "email": "jorge@qualitypress.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
